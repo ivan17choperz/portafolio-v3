@@ -201,6 +201,7 @@ nav {
 }
 
 .lang-toggle {
+  display: inline-block;
   border: 1px solid rgba(156, 163, 255, 0.4);
   background: rgba(47, 47, 228, 0.14);
   color: #eef2ff;
@@ -209,6 +210,7 @@ nav {
   border-radius: 999px;
   padding: 8px 14px;
   cursor: pointer;
+  text-decoration: none;
   transition: all 0.25s ease;
 }
 
